@@ -1,1 +1,1 @@
-# A little game by python
+# A little game by python.
